@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/kvadroMag/static/css/main.4f09dfb9.css",
+    "main.css": "/kvadroMag/static/css/main.60b0a99f.css",
     "main.js": "/kvadroMag/static/js/main.57fe5141.js",
     "static/media/lapa.jpg": "/kvadroMag/static/media/lapa.f38587a58b2efc9f084d.jpg",
     "index.html": "/kvadroMag/index.html",
-    "main.4f09dfb9.css.map": "/kvadroMag/static/css/main.4f09dfb9.css.map",
+    "main.60b0a99f.css.map": "/kvadroMag/static/css/main.60b0a99f.css.map",
     "main.57fe5141.js.map": "/kvadroMag/static/js/main.57fe5141.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f09dfb9.css",
+    "static/css/main.60b0a99f.css",
     "static/js/main.57fe5141.js"
   ]
 }
