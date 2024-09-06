@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kvadroMag/static/css/main.f439514c.css",
+    "main.js": "/kvadroMag/static/js/main.10b197c5.js",
+    "static/media/lapa.jpg": "/kvadroMag/static/media/lapa.f38587a58b2efc9f084d.jpg",
+    "index.html": "/kvadroMag/index.html",
+    "main.f439514c.css.map": "/kvadroMag/static/css/main.f439514c.css.map",
+    "main.10b197c5.js.map": "/kvadroMag/static/js/main.10b197c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f439514c.css",
+    "static/js/main.10b197c5.js"
+  ]
+}
